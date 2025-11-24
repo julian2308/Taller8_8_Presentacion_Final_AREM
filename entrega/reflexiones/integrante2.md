@@ -1,0 +1,3 @@
+Estudiante: Sebastián Piñeros
+
+Con este proyecto pudimos darnos cuenta que hay muchos procesos dentro de las empresas que son manuales y repetitivos, todos estos procesos tienen la capacidad de ser automatizados mediante herramientas como power automate o n8n, en lo personal si se volviese a hacer realizar un proyecto similar preferiría utilizar herramientas como n8n por encima de power automate, esto ya que power automate no permite las mismas libertades y posibilidades que otras plataformas. Además la integración de un agente de inteligencia artificial mediante n8n también es un enfoque interesante que se podría revisar para futuros proyectos.

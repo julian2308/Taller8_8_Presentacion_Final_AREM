@@ -1,0 +1,5 @@
+Estudiante: Julián Camilo Durán 
+
+Mi principal aprendizaje en este proyecto fue comprender cómo la gestión de la información y la seguridad son pilares fundamentales en entornos digitalizados. Al evaluar la arquitectura propuesta y sus riesgos, pude identificar que la centralización en la nube trae grandes beneficios, pero también exige controles sólidos sobre permisos, roles, auditorías y protección contra accesos no autorizados. Este análisis me permitió aplicar buenas prácticas de seguridad y entender cómo se integran dentro de una solución tecnológica más amplia.
+
+También aprendí la importancia de prever amenazas desde el diseño arquitectónico, no como una etapa final. Identificar riesgos técnicos, operativos y económicos me ayudó a desarrollar una mentalidad más preventiva que reactiva. Este proyecto reforzó mi interés por la seguridad documental y me mostró cómo tecnologías como Microsoft 365 permiten proteger información sensible sin limitar la eficiencia del equipo. En general, fue una experiencia que fortaleció mis habilidades analíticas y mi capacidad para evaluar soluciones tecnológicas desde un enfoque de riesgo y control.

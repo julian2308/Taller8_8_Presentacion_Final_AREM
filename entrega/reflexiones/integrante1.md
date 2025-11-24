@@ -1,0 +1,5 @@
+Estudiante: Julián David Alvarado 
+
+Durante este proyecto pude comprender de manera más profunda cómo una arquitectura bien diseñada puede transformar completamente la operación de una empresa. Analizar el estado actual (“AS-IS”) me permitió ver que los problemas no siempre se originan en la falta de esfuerzo humano, sino en procesos que no están alineados con las capacidades tecnológicas actuales. Diseñar el modelo objetivo (“TO-BE”) me ayudó a pensar en escalabilidad, seguridad y automatización, no solo como conceptos teóricos, sino como elementos que deben funcionar en conjunto para crear valor real.
+
+Aprendí que herramientas como Power Automate, SharePoint y el ecosistema Microsoft 365 pueden convertirse en aliados estratégicos si se configuran de manera adecuada. También entendí la importancia de considerar riesgos arquitectónicos desde el inicio para evitar impactos futuros en seguridad o continuidad del servicio. Este proyecto reforzó mi capacidad para conectar la tecnología con los objetivos del negocio, y me dejó una visión más clara sobre cómo la automatización puede mejorar la eficiencia sin perder el control y la trazabilidad.
