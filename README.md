@@ -1,1 +1,2 @@
 # Taller8_8_Presentacion_Final_AREM
+Este repositorio muestra el trabajo por los estudiantes Julián Alvarado, Julián Durán, Sebastian Piñeros Castellanos para la presentación final el cual tiene como objetivo presentar la solución arquitectónica final del cliente real ante un panel simulado de evaluación, defendiendo las decisiones de diseño tomadas durante el curso con base en vistas, buenas prácticas e investigación previa.
